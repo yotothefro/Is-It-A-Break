@@ -1,0 +1,23 @@
+//Is it a break game:
+
+-Based on doubly linked list of nodes or python
+-You are always second node
+
+-Starts by asking "Are you down for a break"
+-*IF* you respond: is it a break
+	-it starts the game
+-First node is head
+	-you get added to second node
+	-LOOPS, must go through each node
+-30% chance to either add you as next node, or have random node as next
+
+-Ends if you successfully complete N loops or if you fuck up
+	-if you fuck up, prints out a random banned trait
+
+-opens league on finish
+
+POSSIBLE ADDS
+-keystroke logger
+-more visuals
+-lock cursor
+-security hax
