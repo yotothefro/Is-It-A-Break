@@ -16,6 +16,13 @@
 
 -opens league on finish
 
+-AESTHETIC ADDITIONS:
+*When button is clicked, lock in noise
+*LoL ambient noise playing in background
+*LoL font on the whole GUI
+*LoL imagery
+*NEEDED for all this to work: a file with the font, sounds and images
+
 POSSIBLE ADDS
 -keystroke logger
 -more visuals
